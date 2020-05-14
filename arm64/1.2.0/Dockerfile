@@ -1,0 +1,1 @@
+FROM jettech/kube-webhook-certgen@sha256:4115a7c138e2a95dfe112d593ed4f45a20113318f6f09c50b953840c4f5c0436
